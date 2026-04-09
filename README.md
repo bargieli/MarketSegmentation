@@ -1,4 +1,5 @@
 # TUMPythonProject
+
 TASK:
 Customer/Market segmentation
 Nowadays, a business can collect a wide variety of information on each
@@ -7,7 +8,7 @@ clustering techniques to identify relevant subgroups.
 recommended tools sklearn
 skills exploratory data analysis, learn how to visualize relatively raw data,
 new clustering methods
-data Please choose your own.
+data 
 
 
 Dataset: 
